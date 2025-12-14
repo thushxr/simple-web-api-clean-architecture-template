@@ -1,0 +1,16 @@
+<Solution>
+  <Folder Name="/services/" />
+  <Folder Name="/services/projectName/" />
+  <Folder Name="/services/projectName/host/">
+    <Project Path="services/projectName/host/Thushar.Example.Project/Thushar.Example.Project.HttpApi.Host.csproj" />
+  </Folder>
+  <Folder Name="/services/projectName/src/">
+    <Project Path="services/projectName/src/Thushar.Example.Project.Application.Contract/Thushar.Example.Project.Application.Contract.csproj" />
+    <Project Path="services/projectName/src/Thushar.Example.Project.Application/Thushar.Example.Project.Application.csproj" />
+    <Project Path="services/projectName/src/Thushar.Example.Project.Domain.Shared/Thushar.Example.Project.Domain.Shared.csproj" />
+    <Project Path="services/projectName/src/Thushar.Example.Project.Domain/Thushar.Example.Project.Domain.csproj" />
+    <Project Path="services/projectName/src/Thushar.Example.Project.HttpApi/Thushar.Example.Project.HttpApi.csproj" />
+    <Project Path="services/projectName/src/Thushar.Example.Project.Infrastructure/Thushar.Example.Project.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/services/projectName/test/" />
+</Solution>
