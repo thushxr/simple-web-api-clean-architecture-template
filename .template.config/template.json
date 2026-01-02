@@ -1,0 +1,20 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "thushxr",
+  "classifications": [
+      "Web API",
+      ".NET", 
+      "C#",
+      "Clean Architecture"
+    ],
+  "identity": "Thushxr.SimpleWebApi.CleanArchitecture",
+  "name": "Web API - Clean architecture",
+  "description": "A template for web api which follows clean architecture",
+  "shortName": "clean-simple-webapi",
+  "groupIdentity": "Thushxr.WebApi",
+  "sourceName": "Company.Domain.Project",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  }
+}

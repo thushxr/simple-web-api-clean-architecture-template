@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="10.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Company.Domain.Project.Application.Contract\Company.Domain.Project.Application.Contract.csproj" />
+    <ProjectReference Include="..\Company.Domain.Project.Domain\Company.Domain.Project.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

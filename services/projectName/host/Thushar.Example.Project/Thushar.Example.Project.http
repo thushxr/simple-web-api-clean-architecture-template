@@ -1,6 +1,0 @@
-@Thushar.Example.Project_HostAddress = http://localhost:5058
-
-GET {{Thushar.Example.Project_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###

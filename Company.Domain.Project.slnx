@@ -1,0 +1,16 @@
+<Solution>
+  <Folder Name="/services/" />
+  <Folder Name="/services/project/" />
+  <Folder Name="/services/project/host/">
+    <Project Path="services/project/host/Company.Domain.Project.HttpApi.Host/Company.Domain.Project.HttpApi.Host.csproj" />
+  </Folder>
+  <Folder Name="/services/project/src/">
+    <Project Path="services/project/src/Company.Domain.Project.Application.Contract/Company.Domain.Project.Application.Contract.csproj" />
+    <Project Path="services/project/src/Company.Domain.Project.Application/Company.Domain.Project.Application.csproj" />
+    <Project Path="services/project/src/Company.Domain.Project.Domain.Shared/Company.Domain.Project.Domain.Shared.csproj" />
+    <Project Path="services/project/src/Company.Domain.Project.Domain/Company.Domain.Project.Domain.csproj" />
+    <Project Path="services/project/src/Company.Domain.Project.HttpApi/Company.Domain.Project.HttpApi.csproj" />
+    <Project Path="services/project/src/Company.Domain.Project.Infrastructure/Company.Domain.Project.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/services/project/test/" />
+</Solution>
