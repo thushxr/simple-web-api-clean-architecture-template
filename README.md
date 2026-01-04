@@ -95,6 +95,9 @@ dotnet new --list
 dotnet new clean-simple-webapi -n CompanyName.DomainName.ProjectName
 ```
 
+### Nuget Package
+Check out the nuget template: https://www.nuget.org/packages/Thushxr.SimpleWebApi.CleanArchitecture
+
 ### Repository
 Source code and documentation: https://github.com/thushxr/simple-web-api-clean-architecture-template
 
