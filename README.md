@@ -90,6 +90,11 @@ dotnet new install Thushxr.SimpleWebApi.CleanArchitecture
 dotnet new --list
 ```
 
+### Create folder and then:
+``` bash
+cd folderName
+```
+
 ### Create a New Lambda Project
 ```bash
 dotnet new clean-simple-webapi -n CompanyName.DomainName.ProjectName
@@ -104,12 +109,4 @@ Source code and documentation: https://github.com/thushxr/simple-web-api-clean-a
 ### Contact
 If you face any issues with downloading or installation, or have feature requests or bug reports, feel free to reach out.
 
-<a href="https://www.linkedin.com/in/thushxr" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
-</a>
-<a href="https://www.instagram.com/thushxr" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-Follow-pink?logo=instagram" />
-</a>
-<a href="https://twitter.com/thushxr" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-Follow-black?logo=x" />
-</a>
+[LinkedIn](https://www.linkedin.com/in/thushxr) | [Instagram](https://www.instagram.com/thushxr) | [Github](https://twitter.com/thushxr)
