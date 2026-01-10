@@ -82,22 +82,17 @@ services/
 - Install this template from Nuget
 
 ```bash
-dotnet new install Thushxr.SimpleWebApi.CleanArchitecture
+dotnet new install Thushar.SimpleWebApi.CleanArchitecture
 ```
 
 ### Verify installation:
 ```
-dotnet new --list
-```
-
-### Create folder and then:
-``` bash
-cd folderName
+dotnet new list
 ```
 
 ### Create a New Lambda Project
 ```bash
-dotnet new clean-simple-webapi -n CompanyName.DomainName.ProjectName
+dotnet new cln-simple-webapi -n CompanyName.DomainName.ProjectName
 ```
 
 ### Nuget Package
@@ -109,4 +104,4 @@ Source code and documentation: https://github.com/thushxr/simple-web-api-clean-a
 ### Contact
 If you face any issues with downloading or installation, or have feature requests or bug reports, feel free to reach out.
 
-[LinkedIn](https://www.linkedin.com/in/thushxr) | [Instagram](https://www.instagram.com/thushxr) | [Github](https://twitter.com/thushxr)
+[Mail](mailto:thushar8p@gmail.com) | [LinkedIn](https://www.linkedin.com/in/thushxr) | [Instagram](https://www.instagram.com/thushxr) | [Github](https://twitter.com/thushxr)

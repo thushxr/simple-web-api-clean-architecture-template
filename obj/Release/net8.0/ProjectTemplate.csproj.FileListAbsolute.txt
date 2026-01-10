@@ -1,0 +1,12 @@
+D:\Projects\Dotnet\simple-web-api-clean-architecture-template\bin\Release\net8.0\ProjectTemplate.deps.json
+D:\Projects\Dotnet\simple-web-api-clean-architecture-template\bin\Release\net8.0\ProjectTemplate.dll
+D:\Projects\Dotnet\simple-web-api-clean-architecture-template\bin\Release\net8.0\ProjectTemplate.pdb
+D:\Projects\Dotnet\simple-web-api-clean-architecture-template\obj\Release\net8.0\ProjectTemplate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Dotnet\simple-web-api-clean-architecture-template\obj\Release\net8.0\ProjectTemplate.AssemblyInfoInputs.cache
+D:\Projects\Dotnet\simple-web-api-clean-architecture-template\obj\Release\net8.0\ProjectTemplate.AssemblyInfo.cs
+D:\Projects\Dotnet\simple-web-api-clean-architecture-template\obj\Release\net8.0\ProjectTemplate.csproj.CoreCompileInputs.cache
+D:\Projects\Dotnet\simple-web-api-clean-architecture-template\obj\Release\net8.0\ProjectTemplate.sourcelink.json
+D:\Projects\Dotnet\simple-web-api-clean-architecture-template\obj\Release\net8.0\ProjectTemplate.dll
+D:\Projects\Dotnet\simple-web-api-clean-architecture-template\obj\Release\net8.0\refint\ProjectTemplate.dll
+D:\Projects\Dotnet\simple-web-api-clean-architecture-template\obj\Release\net8.0\ProjectTemplate.pdb
+D:\Projects\Dotnet\simple-web-api-clean-architecture-template\obj\Release\net8.0\ref\ProjectTemplate.dll

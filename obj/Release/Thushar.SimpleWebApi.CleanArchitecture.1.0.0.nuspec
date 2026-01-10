@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Thushar.SimpleWebApi.CleanArchitecture</id>
+    <version>1.0.0</version>
+    <title>Web Api with clean architecture project style</title>
+    <authors>thushxr</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <readme>README.md</readme>
+    <description>A Simple Web API built with production ready clean architecture style</description>
+    <tags>webapi dotnet cleanarchitecture</tags>
+    <packageTypes>
+      <packageType name="Template" />
+    </packageTypes>
+    <repository type="git" url="https://github.com/thushxr/web-api-clean-architecture-template" commit="6ef0805cb25d73406f02c60472a5143310fed01b" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Projects\Dotnet\simple-web-api-clean-architecture-template\bin\Release\net8.0\ProjectTemplate.dll" target="lib\net8.0\ProjectTemplate.dll" />
+    <file src="D:\Projects\Dotnet\simple-web-api-clean-architecture-template\.template.config\template.json" target="content\Company.Domain.Project\.template.config\template.json" />
+    <file src="D:\Projects\Dotnet\simple-web-api-clean-architecture-template\Company.Domain.Project\services\project\host\Company.Domain.Project.HttpApi.Host\appsettings.Development.json" target="content\Company.Domain.Project\services\project\host\Company.Domain.Project.HttpApi.Host\appsettings.Development.json" />
+    <file src="D:\Projects\Dotnet\simple-web-api-clean-architecture-template\Company.Domain.Project\services\project\host\Company.Domain.Project.HttpApi.Host\appsettings.json" target="content\Company.Domain.Project\services\project\host\Company.Domain.Project.HttpApi.Host\appsettings.json" />
+    <file src="D:\Projects\Dotnet\simple-web-api-clean-architecture-template\Company.Domain.Project\services\project\host\Company.Domain.Project.HttpApi.Host\Company.Domain.Project.http" target="content\Company.Domain.Project\services\project\host\Company.Domain.Project.HttpApi.Host\Company.Domain.Project.http" />
+    <file src="D:\Projects\Dotnet\simple-web-api-clean-architecture-template\Company.Domain.Project\services\project\host\Company.Domain.Project.HttpApi.Host\Company.Domain.Project.HttpApi.Host.csproj" target="content\Company.Domain.Project\services\project\host\Company.Domain.Project.HttpApi.Host\Company.Domain.Project.HttpApi.Host.csproj" />
+    <file src="D:\Projects\Dotnet\simple-web-api-clean-architecture-template\Company.Domain.Project\services\project\host\Company.Domain.Project.HttpApi.Host\Program.cs" target="content\Company.Domain.Project\services\project\host\Company.Domain.Project.HttpApi.Host\Program.cs" />
+    <file src="D:\Projects\Dotnet\simple-web-api-clean-architecture-template\Company.Domain.Project\services\project\host\Company.Domain.Project.HttpApi.Host\Properties\launchSettings.json" target="content\Company.Domain.Project\services\project\host\Company.Domain.Project.HttpApi.Host\Properties\launchSettings.json" />
+    <file src="D:\Projects\Dotnet\simple-web-api-clean-architecture-template\Company.Domain.Project\services\project\src\Company.Domain.Project.Application.Contract\Company.Domain.Project.Application.Contract.csproj" target="content\Company.Domain.Project\services\project\src\Company.Domain.Project.Application.Contract\Company.Domain.Project.Application.Contract.csproj" />
+    <file src="D:\Projects\Dotnet\simple-web-api-clean-architecture-template\Company.Domain.Project\services\project\src\Company.Domain.Project.Application.Contract\Interfaces\IUserAppService.cs" target="content\Company.Domain.Project\services\project\src\Company.Domain.Project.Application.Contract\Interfaces\IUserAppService.cs" />
+    <file src="D:\Projects\Dotnet\simple-web-api-clean-architecture-template\Company.Domain.Project\services\project\src\Company.Domain.Project.Application\Company.Domain.Project.Application.csproj" target="content\Company.Domain.Project\services\project\src\Company.Domain.Project.Application\Company.Domain.Project.Application.csproj" />
+    <file src="D:\Projects\Dotnet\simple-web-api-clean-architecture-template\Company.Domain.Project\services\project\src\Company.Domain.Project.Application\DependencyInjection.cs" target="content\Company.Domain.Project\services\project\src\Company.Domain.Project.Application\DependencyInjection.cs" />
+    <file src="D:\Projects\Dotnet\simple-web-api-clean-architecture-template\Company.Domain.Project\services\project\src\Company.Domain.Project.Application\Services\UserAppService.cs" target="content\Company.Domain.Project\services\project\src\Company.Domain.Project.Application\Services\UserAppService.cs" />
+    <file src="D:\Projects\Dotnet\simple-web-api-clean-architecture-template\Company.Domain.Project\services\project\src\Company.Domain.Project.Domain.Shared\Class1.cs" target="content\Company.Domain.Project\services\project\src\Company.Domain.Project.Domain.Shared\Class1.cs" />
+    <file src="D:\Projects\Dotnet\simple-web-api-clean-architecture-template\Company.Domain.Project\services\project\src\Company.Domain.Project.Domain.Shared\Company.Domain.Project.Domain.Shared.csproj" target="content\Company.Domain.Project\services\project\src\Company.Domain.Project.Domain.Shared\Company.Domain.Project.Domain.Shared.csproj" />
+    <file src="D:\Projects\Dotnet\simple-web-api-clean-architecture-template\Company.Domain.Project\services\project\src\Company.Domain.Project.Domain\Company.Domain.Project.Domain.csproj" target="content\Company.Domain.Project\services\project\src\Company.Domain.Project.Domain\Company.Domain.Project.Domain.csproj" />
+    <file src="D:\Projects\Dotnet\simple-web-api-clean-architecture-template\Company.Domain.Project\services\project\src\Company.Domain.Project.Domain\DependencyInjection.cs" target="content\Company.Domain.Project\services\project\src\Company.Domain.Project.Domain\DependencyInjection.cs" />
+    <file src="D:\Projects\Dotnet\simple-web-api-clean-architecture-template\Company.Domain.Project\services\project\src\Company.Domain.Project.Domain\Entities\User.cs" target="content\Company.Domain.Project\services\project\src\Company.Domain.Project.Domain\Entities\User.cs" />
+    <file src="D:\Projects\Dotnet\simple-web-api-clean-architecture-template\Company.Domain.Project\services\project\src\Company.Domain.Project.Domain\Interfaces\IUserRepository.cs" target="content\Company.Domain.Project\services\project\src\Company.Domain.Project.Domain\Interfaces\IUserRepository.cs" />
+    <file src="D:\Projects\Dotnet\simple-web-api-clean-architecture-template\Company.Domain.Project\services\project\src\Company.Domain.Project.HttpApi\Company.Domain.Project.HttpApi.csproj" target="content\Company.Domain.Project\services\project\src\Company.Domain.Project.HttpApi\Company.Domain.Project.HttpApi.csproj" />
+    <file src="D:\Projects\Dotnet\simple-web-api-clean-architecture-template\Company.Domain.Project\services\project\src\Company.Domain.Project.HttpApi\Controllers\UserController.cs" target="content\Company.Domain.Project\services\project\src\Company.Domain.Project.HttpApi\Controllers\UserController.cs" />
+    <file src="D:\Projects\Dotnet\simple-web-api-clean-architecture-template\Company.Domain.Project\services\project\src\Company.Domain.Project.Infrastructure\AppDbContext.cs" target="content\Company.Domain.Project\services\project\src\Company.Domain.Project.Infrastructure\AppDbContext.cs" />
+    <file src="D:\Projects\Dotnet\simple-web-api-clean-architecture-template\Company.Domain.Project\services\project\src\Company.Domain.Project.Infrastructure\Company.Domain.Project.Infrastructure.csproj" target="content\Company.Domain.Project\services\project\src\Company.Domain.Project.Infrastructure\Company.Domain.Project.Infrastructure.csproj" />
+    <file src="D:\Projects\Dotnet\simple-web-api-clean-architecture-template\Company.Domain.Project\services\project\src\Company.Domain.Project.Infrastructure\DependencyInjection.cs" target="content\Company.Domain.Project\services\project\src\Company.Domain.Project.Infrastructure\DependencyInjection.cs" />
+    <file src="D:\Projects\Dotnet\simple-web-api-clean-architecture-template\Company.Domain.Project\services\project\src\Company.Domain.Project.Infrastructure\Repository\UserRepository.cs" target="content\Company.Domain.Project\services\project\src\Company.Domain.Project.Infrastructure\Repository\UserRepository.cs" />
+    <file src="D:\Projects\Dotnet\simple-web-api-clean-architecture-template\Company.Domain.Project\Company.Domain.Project.slnx" target="content\Company.Domain.Project\Company.Domain.Project.slnx" />
+    <file src="D:\Projects\Dotnet\simple-web-api-clean-architecture-template\Company.Domain.Project\Readme.md" target="content\Company.Domain.Project\Readme.md" />
+    <file src="D:\Projects\Dotnet\simple-web-api-clean-architecture-template\README.md" target="\README.md" />
+  </files>
+</package>

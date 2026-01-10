@@ -7,14 +7,15 @@
       "C#",
       "Clean Architecture"
     ],
-  "identity": "Thushxr.SimpleWebApi.CleanArchitecture",
+  "identity": "Thushar.SimpleWebApi.CleanArchitecture",
   "name": "Web API - Clean architecture",
   "description": "A template for web api which follows clean architecture",
-  "shortName": "clean-simple-webapi",
-  "groupIdentity": "Thushxr.WebApi",
+  "shortName": "cln-simple-webapi",
+  "groupIdentity": "Thushar.WebApi",
   "sourceName": "Company.Domain.Project",
   "tags": {
     "language": "C#",
     "type": "project"
-  }
+  },
+  "preferNameDirectory": true
 }
